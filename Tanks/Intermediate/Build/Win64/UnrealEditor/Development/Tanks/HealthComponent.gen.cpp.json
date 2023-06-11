@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\homework\\texteditor\\tanks-main\\tanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tanks\\healthcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\homework\\texteditor\\tanks-main\\tanks\\intermediate\\build\\win64\\tankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\homework\\texteditor\\tanks-main\\tanks\\intermediate\\build\\win64\\unrealeditor\\development\\tanks\\definitions.tanks.h",
+            "d:\\homework\\texteditor\\tanks-main\\tanks\\source\\tanks\\healthcomponent.h",
+            "d:\\homework\\texteditor\\tanks-main\\tanks\\source\\tanks\\gamestruct.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\homework\\texteditor\\tanks-main\\tanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tanks\\gamestruct.generated.h",
+            "d:\\homework\\texteditor\\tanks-main\\tanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tanks\\healthcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

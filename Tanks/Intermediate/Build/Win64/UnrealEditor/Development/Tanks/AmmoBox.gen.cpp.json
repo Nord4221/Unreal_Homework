@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\homework\\texteditor\\tanks-main\\tanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tanks\\ammobox.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\homework\\texteditor\\tanks-main\\tanks\\intermediate\\build\\win64\\tankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\homework\\texteditor\\tanks-main\\tanks\\intermediate\\build\\win64\\unrealeditor\\development\\tanks\\definitions.tanks.h",
+            "d:\\homework\\texteditor\\tanks-main\\tanks\\source\\tanks\\ammobox.h",
+            "d:\\homework\\texteditor\\tanks-main\\tanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tanks\\ammobox.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

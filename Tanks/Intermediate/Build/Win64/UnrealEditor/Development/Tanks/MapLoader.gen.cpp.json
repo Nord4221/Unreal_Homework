@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\homework\\texteditor\\tanks-main\\tanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tanks\\maploader.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\homework\\texteditor\\tanks-main\\tanks\\intermediate\\build\\win64\\tankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\homework\\texteditor\\tanks-main\\tanks\\intermediate\\build\\win64\\unrealeditor\\development\\tanks\\definitions.tanks.h",
+            "d:\\homework\\texteditor\\tanks-main\\tanks\\source\\tanks\\maploader.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "d:\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\boxcomponent.generated.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\pointlightcomponent.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\locallightcomponent.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\lightcomponent.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\lightcomponentbase.h",
+            "d:\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\lightcomponentbase.generated.h",
+            "d:\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\lightcomponent.generated.h",
+            "d:\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\locallightcomponent.generated.h",
+            "d:\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\pointlightcomponent.generated.h",
+            "d:\\homework\\texteditor\\tanks-main\\tanks\\intermediate\\build\\win64\\unrealeditor\\inc\\tanks\\maploader.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
